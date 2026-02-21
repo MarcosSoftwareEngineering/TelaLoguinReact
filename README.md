@@ -1,16 +1,35 @@
-# React + Vite
+# 🔐 Tela de Login - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-brightgreen?style=for-the-badge)
 
-Currently, two official plugins are available:
+## 📖 Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto é uma interface de tela de login moderna e responsiva desenvolvida com React. Foi construído com foco em **Engenharia de Software** e **Front-end**, demonstrando habilidades em componentização, gestão de estado e estilização.
 
-## React Compiler
+## 🚀 Demonstração ao Vivo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[Clique aqui para aceder ao projeto rodando online no Vercel!](COLOQUE_AQUI_O_SEU_LINK_DO_VERCEL)
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 📂 Destaques Técnicos
+
+* **React Hooks:** Utilização de `useState` para capturar e gerir os dados inseridos pelo utilizador no e-mail e palavra-passe.
+* **Prevenção de Comportamento Padrão:** Uso de `e.preventDefault()` para gerir o envio do formulário sem recarregar a página.
+* **Integração de Bibliotecas:** Utilização da biblioteca `react-icons` para a renderização de ícones SVG.
+* **Deploy CI/CD:** Implantação automatizada na plataforma Vercel.
+
+---
+
+## 👷 Autor
+
+**Marcos Vinicius** *Estudante de Engenharia de Software*
+
+Focado em aplicar tecnologias modernas para resolver problemas reais.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-souza-silva-29025a294)
